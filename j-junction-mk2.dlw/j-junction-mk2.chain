@@ -4,6 +4,6 @@ slug  : j-junction-mk2
 seal  : 5d6f6c0ab7998f34805e8e8120755dbad25cdef9714f3a5555f0c414ab8f3adb
 prev  : 7589ee1307d3c6bbb0cc4c0fb8a9b126a2f65d6b015f7a53e01fb842a7c38117
 link  : fd74ce8a70440275899e9f84aa7f70e46fa55b066384a1ff23f3c892d516a0d6
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
