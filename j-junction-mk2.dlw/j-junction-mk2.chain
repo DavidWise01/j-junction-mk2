@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 124
 slug  : j-junction-mk2
-seal  : 5d6f6c0ab7998f34805e8e8120755dbad25cdef9714f3a5555f0c414ab8f3adb
-prev  : 7589ee1307d3c6bbb0cc4c0fb8a9b126a2f65d6b015f7a53e01fb842a7c38117
-link  : fd74ce8a70440275899e9f84aa7f70e46fa55b066384a1ff23f3c892d516a0d6
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 76ad2c901e288595bd90be9457ad80af6d5a3a959c542558917a65f30c00d9a9
+prev  : 647935b2f51831eaf56e655f78a97544d07cb0dbd4019d1e8196232544e864aa
+link  : ba28034ef902037a63755e78adfc14760b2f221e8794ccf56512feeee78027f9
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
